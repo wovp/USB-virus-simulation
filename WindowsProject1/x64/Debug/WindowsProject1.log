@@ -1,0 +1,4 @@
+﻿  WindowsProject1.cpp
+F:\Code\CodeSource\CppCode\lab_csecurity\lab2_vs\WindowsProject1\WindowsProject1.cpp(58,104): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+F:\Code\CodeSource\CppCode\lab_csecurity\lab2_vs\WindowsProject1\WindowsProject1.cpp(262,49): warning C4838: 从“char”转换到“wchar_t”需要收缩转换
+  WindowsProject1.vcxproj -> F:\Code\CodeSource\CppCode\lab_csecurity\lab2_vs\WindowsProject1\x64\Debug\WindowsProject1.exe
